@@ -1,5 +1,10 @@
 # Group Project - *Hi-Metro*
 
+# Group Members:
+  Aarya BC
+  Pratyush Thapa
+  Swapnil Tamrakar
+
 Time spent: **X** hours spent in total
 
 ## Description
