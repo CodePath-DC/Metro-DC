@@ -9,9 +9,9 @@ Time spent: **X** hours spent in total
 
 ## Description
 
-Very often than not, I and my friends find ourselves waiting for the metro or metro buses, but I usually find myself waiting for a long while at the metro station to catch the train in off-peak hours. Furthermore, the UI of the available metro apps do little to help our information crunch. So, we would like to help others like ourselves with a predictive map to estimate the time and if possible, prevent rush or panic among metro users. We will get the location from the user's phone and access all metro information near the user
+Very often than not, I and my friends find ourselves waiting for the metro or metro buses, but I usually find myself waiting for a long while at the metro station to catch the train in off-peak hours. Furthermore, the UI of the available metro apps do little to help our information crunch. So, we would like to help others like ourselves with a predictive map to estimate the time and if possible, prevent rush or panic among metro users. We will get the location from the user's phone and access all metro information near the user.
 
-Do not miss the metro from now on. Predictive live map to show where the metro train and metro buses are. Find all the metro information, with a great UI.
+Do not miss the metro from now on. Predictive live map to show where the metro train and metro buses are. Find all the metro information, with a great User Interface.
 
 The user base is anyone who uses the metro and metro buses, but for now DC metro users.
 
@@ -29,7 +29,7 @@ The user base is anyone who uses the metro and metro buses, but for now DC metro
 
 The following **optional** features are implemented:
 
-- [ ]
+- [ ] Alert user when their daily train is about to approach
 
 The following **additional** features are implemented:
 
@@ -67,3 +67,12 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+##Considerations
+
+**What is your product pitch?**
+Very often than not, I and my friends find ourselves waiting for the metro or metro buses, but I usually find myself waiting for a long while at the metro station to catch the train in off-peak hours. Furthermore, the UI of the available metro apps do little to help our information crunch. So, we would like to help others like ourselves with a predictive map to estimate the time and if possible, prevent rush or panic among metro users. We will get the location from the user's phone and access all metro information near the user. Do not miss the metro from now on. Predictive live map to show where the metro train and metro buses are. Find all the metro information, with a great User Interface.
+\n**Who are the key stakeholders for this app?**
+The users will be the DC metro users. They will use it to get the metro information.
+\n**What are the core flows?**
